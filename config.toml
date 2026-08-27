@@ -1,0 +1,21 @@
+[theme]
+
+# Color principal (botones, sliders, elementos activos)
+primaryColor = "#2D6A4F"
+
+# Fondo general
+backgroundColor = "#F8F9FA"
+
+# Fondo de elementos secundarios
+secondaryBackgroundColor = "#E9ECEF"
+
+# Texto
+textColor = "#1B1B1B"
+
+# Fuente
+font = "sans serif"
+
+
+[server]
+
+enableStaticServing = true
